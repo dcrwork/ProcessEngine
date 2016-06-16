@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{C49CB043-9465-49DF-BBB3-F0B4560CC4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{723C1963-F6A5-4055-86F1-C0A322D0A3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49CB043-9465-49DF-BBB3-F0B4560CC4B8}.Debug|x86.ActiveCfg = Debug|x86
+		{C49CB043-9465-49DF-BBB3-F0B4560CC4B8}.Debug|x86.Build.0 = Debug|x86
+		{C49CB043-9465-49DF-BBB3-F0B4560CC4B8}.Release|x86.ActiveCfg = Release|x86
+		{C49CB043-9465-49DF-BBB3-F0B4560CC4B8}.Release|x86.Build.0 = Release|x86
+		{723C1963-F6A5-4055-86F1-C0A322D0A3BE}.Debug|x86.ActiveCfg = Debug|x86
+		{723C1963-F6A5-4055-86F1-C0A322D0A3BE}.Debug|x86.Build.0 = Debug|x86
+		{723C1963-F6A5-4055-86F1-C0A322D0A3BE}.Release|x86.ActiveCfg = Release|x86
+		{723C1963-F6A5-4055-86F1-C0A322D0A3BE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
