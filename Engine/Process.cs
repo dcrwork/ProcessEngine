@@ -1,5 +1,5 @@
 /*
- * DCR Process Engine implementation (debois@itu.dk)
+ * DCR Process Engine implementation (debois@exformatics.com)
  *
  *  Copyright(C) 2016 Exformatics A/S 
  *
