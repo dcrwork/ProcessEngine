@@ -1,5 +1,5 @@
 /*
- * Example use of the DCR Process Engine (debois@itu.dk)
+ * Example use of the DCR Process Engine (debois@exformatics.com)
  *
  *  Copyright(C) 2016 Exformatics A/S 
  *
